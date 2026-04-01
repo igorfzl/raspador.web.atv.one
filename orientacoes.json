@@ -1,0 +1,938 @@
+[
+  {
+    "titulo": "Garantia de Integridade de Dados em Assinatura Digital de Documentos (Provisório)",
+    "orientado": "Eduardo Maciel",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/06/2025",
+    "conclusao": "20/12/2026 (previsão)",
+    "situacao": "Em andamento",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "17/03/2026",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Definição do escopo"
+      }
+    ],
+    "documentos": []
+  },
+  {
+    "titulo": "Aplicação de Inteligência Artifical no Desenvolvimento de Software (Provisório)",
+    "orientado": "Alex Sander Leite de Almeida",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/06/2025",
+    "conclusao": "20/12/2026 (previsão)",
+    "situacao": "Em andamento",
+    "etapa": "TCC 1",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "27/03/2026",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Início da escrita do documento"
+      },
+      {
+        "acompanhamentoData": "13/03/2026",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes no escopo do trabalho"
+      }
+    ],
+    "documentos": []
+  },
+  {
+    "titulo": "Controle de Acesso e Segurança de Aplicações Web (Provisório)",
+    "orientado": "Vinicius Sanches de Sousa Ramos",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/06/2025",
+    "conclusao": "20/12/2026 (previsão)",
+    "situacao": "Em andamento",
+    "etapa": "TCC 1",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "20/03/2026",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Início da caracterização do problema"
+      },
+      {
+        "acompanhamentoData": "13/03/2026",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Definição do escopo e orientações iniciais"
+      }
+    ],
+    "documentos": []
+  },
+  {
+    "titulo": "Virtualização por Container (Provisório)",
+    "orientado": "Paula Cristina Hang",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2023",
+    "conclusao": "03/06/2026 (previsão)",
+    "situacao": "Em andamento",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "17/03/2026",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Definição de escopo do trabalho"
+      }
+    ],
+    "documentos": []
+  },
+  {
+    "titulo": "Modelagem de um Sistema para Gestão de Orientações de TCC: Uma Solução para Organização de Professores Orientadores",
+    "orientado": "Otavio Augusto Lopes",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2025",
+    "conclusao": "20/12/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "12/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Correções para versão final"
+      },
+      {
+        "acompanhamentoData": "05/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia de paresentação de defesa"
+      },
+      {
+        "acompanhamentoData": "21/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão do texto e orientações"
+      },
+      {
+        "acompanhamentoData": "07/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão do texto e orientações"
+      },
+      {
+        "acompanhamentoData": "24/10/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão do texto e orientações"
+      },
+      {
+        "acompanhamentoData": "10/10/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Orientações sobre protótipo - Integração com APIs externas"
+      },
+      {
+        "acompanhamentoData": "03/10/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Orientações sobre protótipo - Banco de dados"
+      },
+      {
+        "acompanhamentoData": "26/09/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Orientações sobre protótipo"
+      },
+      {
+        "acompanhamentoData": "19/09/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes no escopo e demais discussões"
+      },
+      {
+        "acompanhamentoData": "05/09/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes no escopo"
+      },
+      {
+        "acompanhamentoData": "29/08/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Retrospectiva do tcc1 e definição de estratégias"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 17:11",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Documentação Dinâmica de Web APIs REST",
+    "orientado": "Joicimar Natalino de Oliveira Fernandes Dos Reis",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2024",
+    "conclusao": "20/12/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "17/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes documento final"
+      },
+      {
+        "acompanhamentoData": "08/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajuste no texto do documento"
+      },
+      {
+        "acompanhamentoData": "04/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajuste no texto do documento"
+      },
+      {
+        "acompanhamentoData": "27/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões gerais - identificação dos pontos de melhoria no texto e na proposta"
+      },
+      {
+        "acompanhamentoData": "06/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões gerais"
+      },
+      {
+        "acompanhamentoData": "23/10/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões gerais"
+      },
+      {
+        "acompanhamentoData": "10/09/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões iniciais e retrospectiva TCC1"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 18:06",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Análise Comparativa de Tecnologias Desktop no Desenvolvimento de Software para a Agricultura Familiar: O Sistema Agrogestor",
+    "orientado": "Lucas Jose da Costa",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "13/08/2025",
+    "conclusao": "15/12/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "15/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes documento final"
+      },
+      {
+        "acompanhamentoData": "10/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia de defesa"
+      },
+      {
+        "acompanhamentoData": "03/12/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Correções de texto"
+      },
+      {
+        "acompanhamentoData": "26/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Correções de texto"
+      },
+      {
+        "acompanhamentoData": "19/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Correções de texto"
+      },
+      {
+        "acompanhamentoData": "12/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Correções de texto"
+      },
+      {
+        "acompanhamentoData": "05/11/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões gerais"
+      },
+      {
+        "acompanhamentoData": "29/10/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes nos resultados preliminares"
+      },
+      {
+        "acompanhamentoData": "22/10/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões gerais - trabalhos relacionados"
+      },
+      {
+        "acompanhamentoData": "15/10/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões gerais"
+      },
+      {
+        "acompanhamentoData": "10/09/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões gerais"
+      },
+      {
+        "acompanhamentoData": "27/08/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes no escopo da proposta"
+      },
+      {
+        "acompanhamentoData": "20/08/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes no escopo da proposta"
+      },
+      {
+        "acompanhamentoData": "13/08/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Discussões iniciais"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão Final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 17:55",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Paradigmas Arquiteturais de Sistemas Distribuídos",
+    "orientado": "Alvaro Barbosa da Silva",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "30/07/2024",
+    "conclusao": "30/07/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "18/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "11/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "09/05/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "04/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "06/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "05/02/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão corrigida",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 16:53",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Travelsim: Simulador de Viagens com Dados Reais",
+    "orientado": "Ulisses Meotti",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2025",
+    "conclusao": "27/07/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "07/07/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes pontuais documento"
+      },
+      {
+        "acompanhamentoData": "25/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia de defesa"
+      },
+      {
+        "acompanhamentoData": "18/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "11/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "04/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "23/05/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "09/05/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 16:51",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Proposta de Uma Arquitetura para um Software de Pesquisa Online Adequado a Lei Geral de Proteção de Dados",
+    "orientado": "Guilherme Baumgratz Spiger",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2024",
+    "conclusao": "26/07/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "23/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia defesa"
+      },
+      {
+        "acompanhamentoData": "13/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "06/06/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "09/05/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "06/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "01/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "23/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "09/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "12/04/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "28/03/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Apresentação das ideias de trabalho"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 16:52",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Bancos de Dados NoSQL: Vulnerabilidades de Segurança Encontrados no MongoDB",
+    "orientado": "Lucas Alves Rubira",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2024",
+    "conclusao": "28/02/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "18/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia de apresentação"
+      },
+      {
+        "acompanhamentoData": "12/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes de slides da defesa"
+      },
+      {
+        "acompanhamentoData": "07/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão final do texto"
+      },
+      {
+        "acompanhamentoData": "13/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Análise dos resultados parciais"
+      },
+      {
+        "acompanhamentoData": "06/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão de texto"
+      },
+      {
+        "acompanhamentoData": "29/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão de texto"
+      },
+      {
+        "acompanhamentoData": "15/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "06/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "23/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Inclusão do site CVE como padrão para reports de vulnerabilidades"
+      },
+      {
+        "acompanhamentoData": "16/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "05/07/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Conversa inicial"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão Final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 15:41",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Sistema Eletrônico de Informações: Um Estudo Sobre a Qualidade de Dados",
+    "orientado": "Matheus Augusto Conde Dias",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2023",
+    "conclusao": "21/02/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "06/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão final do texto"
+      },
+      {
+        "acompanhamentoData": "05/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "28/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão dos capítulos introdutórios"
+      },
+      {
+        "acompanhamentoData": "21/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Reutilizar plataforma extração de dados SEI no trabalho"
+      },
+      {
+        "acompanhamentoData": "13/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Considerações sobre utilizar o SEI como caso de uso"
+      },
+      {
+        "acompanhamentoData": "06/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "15/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "04/07/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes na proposta inicial"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 15:31",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Análise de Qualidade e Visão dos Dados Disponibilizados, sobre Homicídios no Brasil: um panorama da violência",
+    "orientado": "Lucas Felix Vaz",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2024",
+    "conclusao": "18/02/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "19/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia de apresentação"
+      },
+      {
+        "acompanhamentoData": "12/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes de slides da defesa"
+      },
+      {
+        "acompanhamentoData": "05/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão final do texto"
+      },
+      {
+        "acompanhamentoData": "04/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "04/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Análise dos resultados finais"
+      },
+      {
+        "acompanhamentoData": "20/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "13/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "06/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Análise dos resultados preliminares"
+      },
+      {
+        "acompanhamentoData": "28/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão de texto"
+      },
+      {
+        "acompanhamentoData": "18/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "30/07/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "17/07/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes na proposta inicial"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 12:35",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Qualidade de Dados e Linked Data: Aprimoramento de Dados Abertos Governamentais",
+    "orientado": "Emanuelle Machado",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/02/2024",
+    "conclusao": "18/02/2025",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "19/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia de apresentação"
+      },
+      {
+        "acompanhamentoData": "12/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes de slides da defesa"
+      },
+      {
+        "acompanhamentoData": "05/02/2025",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão final do texto"
+      },
+      {
+        "acompanhamentoData": "04/12/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "27/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão dos capítulos introdutórios"
+      },
+      {
+        "acompanhamentoData": "20/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "13/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "06/11/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Inclusão de novas tecnologias a serem estudadas"
+      },
+      {
+        "acompanhamentoData": "21/08/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes na revisão da literatura"
+      },
+      {
+        "acompanhamentoData": "31/07/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "14/07/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "03/07/2024",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes na proposta inicial"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 16:02",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Gamificação no Ensino de Programação",
+    "orientado": "Diego Gomes",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2023",
+    "conclusao": "15/12/2023",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [],
+    "documentos": [
+      {
+        "nomeDoc": "Versão final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 00:44",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Explorando Dados de Roubos e Furtos de Veículos em São Paulo: Uma Abordagem De Integração Com Pentaho, Postgresql, Elasticsearch e Kibana",
+    "orientado": "Gabriel Junior Picagevicz",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/03/2023",
+    "conclusao": "08/12/2023",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "14/06/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Prévia de apresentação"
+      },
+      {
+        "acompanhamentoData": "30/05/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ajustes final de documento"
+      },
+      {
+        "acompanhamentoData": "13/05/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Revisão de texto"
+      },
+      {
+        "acompanhamentoData": "06/05/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "23/04/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "09/04/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento"
+      },
+      {
+        "acompanhamentoData": "20/03/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Refinamento do escopo do traballho"
+      },
+      {
+        "acompanhamentoData": "08/03/2023",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Definição do escopo do trabalho"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão Final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 01:16",
+        "acesso": "PUBLICO"
+      }
+    ]
+  },
+  {
+    "titulo": "Análise do nível de aderência à LGPD no setor público",
+    "orientado": "Jhony Wesley Marques",
+    "curso": "Tecnologia em Sistemas para Internet",
+    "orientador": "Ivan Luiz Salvadori",
+    "inicio": "01/07/2022",
+    "conclusao": "08/12/2022",
+    "situacao": "Concluído",
+    "etapa": "TCC 2",
+    "acompanhamentos": [
+      {
+        "acompanhamentoData": "06/12/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Ensaio para defesa do trabalho"
+      },
+      {
+        "acompanhamentoData": "29/11/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Apontamentos sobre o documento TCC"
+      },
+      {
+        "acompanhamentoData": "17/11/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Refinamentos da proposta"
+      },
+      {
+        "acompanhamentoData": "10/11/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "25/10/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Refinamento na estrutura do documento TCC"
+      },
+      {
+        "acompanhamentoData": "04/10/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Abertura de documento Latex para TCC"
+      },
+      {
+        "acompanhamentoData": "20/09/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "06/09/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Seleção de bibliografias"
+      },
+      {
+        "acompanhamentoData": "30/08/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Definição do escopo do TCC"
+      },
+      {
+        "acompanhamentoData": "22/07/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "22/06/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Acompanhamento do trabalho"
+      },
+      {
+        "acompanhamentoData": "02/05/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Definição de propostas"
+      },
+      {
+        "acompanhamentoData": "22/04/2022",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "assunto": "Conversa inicial sobre possíveis trabalhos"
+      }
+    ],
+    "documentos": [
+      {
+        "nomeDoc": "Versão Final",
+        "enviadoPor": "Ivan Luiz Salvadori",
+        "docData": "16/01/2026 00:27",
+        "acesso": "PUBLICO"
+      }
+    ]
+  }
+]
