@@ -1,95 +1,105 @@
 package br.edu.utfpr.tsi.td.raspador.atv.one;
 
 public class Orientacoes {
-	private String orientado;
-	private String curso;
-	private String orientador;
-	private String inicio;
-	private String conclusao;
-	private String situacao;
-	private String etapa;
-	private String acompanhamentos;
-	private String documentos;
-	private String links;
+    private String titulo;
+    private String orientado;
+    private String curso;
+    private String orientador;
+    private String inicio;
+    private String conclusao;
+    private String situacao;
+    private String etapa;
+    private String acompanhamentos;
+    private String documentos;
+    private String links;
 
-	public String getOrientado() {
-		return orientado;
-	}
 
-	public void setOrientado(String orientado) {
-		this.orientado = orientado;
-	}
+    public String getTitulo() {
+        return titulo;
+    }
 
-	public String getCurso() {
-		return curso;
-	}
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
 
-	public void setCurso(String curso) {
-		this.curso = curso;
-	}
+    public String getOrientado() {
+        return orientado;
+    }
 
-	public String getOrientador() {
-		return orientador;
-	}
+    public void setOrientado(String orientado) {
+        this.orientado = orientado;
+    }
 
-	public void setOrientador(String orientador) {
-		this.orientador = orientador;
-	}
+    public String getCurso() {
+        return curso;
+    }
 
-	public String getInicio() {
-		return inicio;
-	}
+    public void setCurso(String curso) {
+        this.curso = curso;
+    }
 
-	public void setInicio(String inicio) {
-		this.inicio = inicio;
-	}
+    public String getOrientador() {
+        return orientador;
+    }
 
-	public String getConclusao() {
-		return conclusao;
-	}
+    public void setOrientador(String orientador) {
+        this.orientador = orientador;
+    }
 
-	public void setConclusao(String conclusao) {
-		this.conclusao = conclusao;
-	}
+    public String getInicio() {
+        return inicio;
+    }
 
-	public String getSituacao() {
-		return situacao;
-	}
+    public void setInicio(String inicio) {
+        this.inicio = inicio;
+    }
 
-	public void setSituacao(String situacao) {
-		this.situacao = situacao;
-	}
+    public String getConclusao() {
+        return conclusao;
+    }
 
-	public String getEtapa() {
-		return etapa;
-	}
+    public void setConclusao(String conclusao) {
+        this.conclusao = conclusao;
+    }
 
-	public void setEtapa(String etapa) {
-		this.etapa = etapa;
-	}
+    public String getSituacao() {
+        return situacao;
+    }
 
-	public String getAcompanhamentos() {
-		return acompanhamentos;
-	}
+    public void setSituacao(String situacao) {
+        this.situacao = situacao;
+    }
 
-	public void setAcompanhamentos(String acompanhamentos) {
-		this.acompanhamentos = acompanhamentos;
-	}
+    public String getEtapa() {
+        return etapa;
+    }
 
-	public String getDocumentos() {
-		return documentos;
-	}
+    public void setEtapa(String etapa) {
+        this.etapa = etapa;
+    }
 
-	public void setDocumentos(String documentos) {
-		this.documentos = documentos;
-	}
+    public String getAcompanhamentos() {
+        return acompanhamentos;
+    }
 
-	public String getLinks() {
-		return links;
-	}
+    public void setAcompanhamentos(String acompanhamentos) {
+        this.acompanhamentos = acompanhamentos;
+    }
 
-	public void setLinks(String links) {
-		this.links = links;
-	}
+    public String getDocumentos() {
+        return documentos;
+    }
+
+    public void setDocumentos(String documentos) {
+        this.documentos = documentos;
+    }
+
+    public String getLinks() {
+        return links;
+    }
+
+    public void setLinks(String links) {
+        this.links = links;
+    }
 
 }
