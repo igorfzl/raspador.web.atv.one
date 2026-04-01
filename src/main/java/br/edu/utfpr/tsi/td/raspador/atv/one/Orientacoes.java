@@ -1,5 +1,7 @@
 package br.edu.utfpr.tsi.td.raspador.atv.one;
 
+import java.util.List;
+
 public class Orientacoes {
     private String titulo;
     private String orientado;
@@ -9,10 +11,11 @@ public class Orientacoes {
     private String conclusao;
     private String situacao;
     private String etapa;
-    private String acompanhamentos;
-    private String documentos;
-    private String links;
+    private String observacoes;
 
+    private List<Acompanhamento> acompanhamentos;
+    private List<Documentos> documentos;
+    private List<Links> links;
 
     public String getTitulo() {
         return titulo;
@@ -78,28 +81,35 @@ public class Orientacoes {
         this.etapa = etapa;
     }
 
-    public String getAcompanhamentos() {
+    public String getObservacoes() {
+        return observacoes;
+    }
+
+    public void setObservacoes(String observacoes) {
+        this.observacoes = observacoes;
+    }
+
+    public List<Acompanhamento> getAcompanhamentos() {
         return acompanhamentos;
     }
 
-    public void setAcompanhamentos(String acompanhamentos) {
+    public void setAcompanhamentos(List<Acompanhamento> acompanhamentos) {
         this.acompanhamentos = acompanhamentos;
     }
 
-    public String getDocumentos() {
+    public List<Documentos> getDocumentos() {
         return documentos;
     }
 
-    public void setDocumentos(String documentos) {
+    public void setDocumentos(List<Documentos> documentos) {
         this.documentos = documentos;
     }
 
-    public String getLinks() {
+    public List<Links> getLinks() {
         return links;
     }
 
-    public void setLinks(String links) {
+    public void setLinks(List<Links> links) {
         this.links = links;
     }
-
 }

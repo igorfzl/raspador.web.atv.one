@@ -18,67 +18,64 @@ public class RaspadorHtml {
         try {
             Orientacoes orienta = new Orientacoes();
             Document doc = Jsoup.connect(url).get();
+            Elements bloco = doc.select("#resultadoOrientacoes div.card.mb-3.bg-light");
             List<Orientacoes> lista = new ArrayList<>();
-            List<Documentos> listaDoc = new ArrayList<>();
-            List<Acompanhamento> listaAcom = new ArrayList<>();
-            Elements bloco = doc.select("#resultadoOrientacoes");
-            for (Element blocos : bloco) {
-                Elements itens = bloco.select("div.card.mb-3.bg-light");
+            for (Element item : bloco) {
 
-                for (Element item : itens) {
-                    Orientacoes o = new Orientacoes();
-                    Acompanhamento a = new Acompanhamento();
-                    Documentos d = new Documentos();
+                Orientacoes o = new Orientacoes();
 
+                String titulo = item.select("h5.card-title").text();
+                String orientado = item.select("strong:contains(Orientando) + span").text();
+                String curso = item.select("strong:contains(Curso) + span").text();
+                String orientador = item.select("strong:contains(Orientador) + span").text();
+                String inicio = item.select("strong:contains(Início) + span").first().text();
+                String conclusao = item.select("strong:contains(Conclusão) + span").text();
+                String situacao = item.select("strong:contains(Situação) + span").text();
+                String etapa = item.select("strong:contains(Etapa) + span").text();
 
-                    String titulo = item.select("h5.card-title").text();
-                    String orientado = item.select("strong:contains(Orientando) + span").text();
-                    String curso = item.select("strong:contains(Curso) + span").text();
-                    String orientador = item.select("strong:contains(Orientador) + span").text();
-                    String inicio = item.select("strong:contains(Início) + span").text();
-                    String conclusao = item.select("strong:contains(Conclusão) + span").text();
-                    String situacao = item.select("strong:contains(Situação) + span").text();
-                    String etapa = item.select("strong:contains(Etapa) + span").text();
+                o.setTitulo(titulo);
+                o.setOrientado(orientado);
+                o.setCurso(curso);
+                o.setOrientador(orientador);
+                o.setInicio(inicio);
+                o.setConclusao(conclusao);
+                o.setSituacao(situacao);
+                o.setEtapa(etapa);
 
-                    String acompanhamentoData = item.select("");
-                    String cadastradoPor = item.select("");
-                    String assunto = item.select("");
+                // REUNIÕES
+                List<Acompanhamento> listaAcom = new ArrayList<>();
 
-                    String nomeDoc = item.select("");
-                    String enviadoPor = item.select("");
-                    String docData = item.select("");
-                    String acesso = item.select("");
+                Elements linhas = item.select("div[id^=reunioes] table tbody tr");
 
-                    o.setOrientado(titulo);
-                    o.setOrientado(orientado);
-                    o.setCurso(curso);
-                    o.setOrientador(orientador);
-                    o.setInicio(inicio);
-                    o.setConclusao(conclusao);
-                    o.setSituacao(situacao);
-                    o.setEtapa(etapa);
-                    lista.add(o);
+                for (Element linha : linhas) {
+                    Elements cols = linha.select("td");
 
-                    a.setAcompanhamentoData(acompanhamentoData);
-                    a.setCadastradoPor(cadastradoPor);
-                    a.setAssunto(assunto);
-                    listaAcom.add(a);
+                    if (cols.size() >= 3) {
+                        Acompanhamento a = new Acompanhamento();
 
-                    d.setNomeDoc(nomeDoc);
-                    d.setEnviadoPor(enviadoPor);
-                    d.setDocData(docData);
-                    d.setAcesso(acesso);
-                    listaDoc.add(d);
+                        a.setAcompanhamentoData(cols.get(0).text());
+                        a.setCadastradoPor(cols.get(1).text());
+                        a.setAssunto(cols.get(2).text());
 
-
-                    Gson gson = new GsonBuilder().setPrettyPrinting().create();
-                    String json = gson.toJson(o);
-                    System.out.println(json);
-
+                        listaAcom.add(a);
+                    }
                 }
+
+                o.setAcompanhamentos(listaAcom);
+
+                lista.add(o);
             }
+
+
+            Gson gson = new GsonBuilder()
+                    .setPrettyPrinting()
+                    .create();
+
+            String json = gson.toJson(lista);
+
+            System.out.println(json);
         } catch (IOException e) {
-            System.err.println(e.getMessage());
+            throw new RuntimeException(e);
         }
     }
 }

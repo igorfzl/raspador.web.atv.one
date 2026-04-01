@@ -30,7 +30,6 @@ public class Documentos {
         this.enviadoPor = enviadoPor;
     }
 
-
     public String getAcesso() {
         return acesso;
     }
