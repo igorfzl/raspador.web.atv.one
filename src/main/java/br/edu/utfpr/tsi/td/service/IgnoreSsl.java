@@ -1,4 +1,4 @@
-package br.edu.utfpr.tsi.td.raspador.atv.one;
+package br.edu.utfpr.tsi.td.service;
 
 import javax.net.ssl.*;
 import java.security.cert.X509Certificate;

@@ -1,4 +1,4 @@
-package br.edu.utfpr.tsi.td.raspador.atv.one;
+package br.edu.utfpr.tsi.td.model;
 
 import java.util.List;
 

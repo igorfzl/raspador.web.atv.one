@@ -2,6 +2,7 @@ package br.edu.utfpr.tsi.td.raspador.atv.one;
 
 import java.io.IOException;
 
+import br.edu.utfpr.tsi.td.service.IgnoreSsl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

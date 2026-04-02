@@ -15,7 +15,8 @@
         "assunto": "Definição do escopo"
       }
     ],
-    "documentos": []
+    "documentos": [],
+    "links": []
   },
   {
     "titulo": "Aplicação de Inteligência Artifical no Desenvolvimento de Software (Provisório)",
@@ -38,7 +39,14 @@
         "assunto": "Ajustes no escopo do trabalho"
       }
     ],
-    "documentos": []
+    "documentos": [],
+    "links": [
+      {
+        "descricao": "Exemplo de TCC 1",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "28/03/2026 13:25"
+      }
+    ]
   },
   {
     "titulo": "Controle de Acesso e Segurança de Aplicações Web (Provisório)",
@@ -61,7 +69,8 @@
         "assunto": "Definição do escopo e orientações iniciais"
       }
     ],
-    "documentos": []
+    "documentos": [],
+    "links": []
   },
   {
     "titulo": "Virtualização por Container (Provisório)",
@@ -79,7 +88,8 @@
         "assunto": "Definição de escopo do trabalho"
       }
     ],
-    "documentos": []
+    "documentos": [],
+    "links": []
   },
   {
     "titulo": "Modelagem de um Sistema para Gestão de Orientações de TCC: Uma Solução para Organização de Professores Orientadores",
@@ -154,7 +164,8 @@
         "docData": "16/01/2026 17:11",
         "acesso": "PUBLICO"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "titulo": "Documentação Dinâmica de Web APIs REST",
@@ -209,7 +220,8 @@
         "docData": "16/01/2026 18:06",
         "acesso": "PUBLICO"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "titulo": "Análise Comparativa de Tecnologias Desktop no Desenvolvimento de Software para a Agricultura Familiar: O Sistema Agrogestor",
@@ -299,7 +311,8 @@
         "docData": "16/01/2026 17:55",
         "acesso": "PUBLICO"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "titulo": "Paradigmas Arquiteturais de Sistemas Distribuídos",
@@ -349,7 +362,8 @@
         "docData": "16/01/2026 16:53",
         "acesso": "PUBLICO"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "titulo": "Travelsim: Simulador de Viagens com Dados Reais",
@@ -404,7 +418,8 @@
         "docData": "16/01/2026 16:51",
         "acesso": "PUBLICO"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "titulo": "Proposta de Uma Arquitetura para um Software de Pesquisa Online Adequado a Lei Geral de Proteção de Dados",
@@ -474,7 +489,8 @@
         "docData": "16/01/2026 16:52",
         "acesso": "PUBLICO"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "titulo": "Bancos de Dados NoSQL: Vulnerabilidades de Segurança Encontrados no MongoDB",
@@ -549,6 +565,13 @@
         "docData": "16/01/2026 15:41",
         "acesso": "PUBLICO"
       }
+    ],
+    "links": [
+      {
+        "descricao": "Repositório institucional",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 15:41"
+      }
     ]
   },
   {
@@ -608,6 +631,13 @@
         "enviadoPor": "Ivan Luiz Salvadori",
         "docData": "16/01/2026 15:31",
         "acesso": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "descricao": "Repositório institucional",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 15:32"
       }
     ]
   },
@@ -689,6 +719,13 @@
         "docData": "16/01/2026 12:35",
         "acesso": "PUBLICO"
       }
+    ],
+    "links": [
+      {
+        "descricao": "Repositório institucional",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 12:35"
+      }
     ]
   },
   {
@@ -769,6 +806,13 @@
         "docData": "16/01/2026 16:02",
         "acesso": "PUBLICO"
       }
+    ],
+    "links": [
+      {
+        "descricao": "Repositório institucional",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 16:02"
+      }
     ]
   },
   {
@@ -787,6 +831,18 @@
         "enviadoPor": "Ivan Luiz Salvadori",
         "docData": "16/01/2026 00:44",
         "acesso": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "descricao": "Repositório Institucional",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 00:41"
+      },
+      {
+        "descricao": "Processo SEI",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 00:59"
       }
     ]
   },
@@ -847,6 +903,23 @@
         "enviadoPor": "Ivan Luiz Salvadori",
         "docData": "16/01/2026 01:16",
         "acesso": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "descricao": "Repositório Institucional",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 01:17"
+      },
+      {
+        "descricao": "Processo SEI",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 01:17"
+      },
+      {
+        "descricao": "Processo SEI - Demais documentos",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 01:25"
       }
     ]
   },
@@ -932,6 +1005,18 @@
         "enviadoPor": "Ivan Luiz Salvadori",
         "docData": "16/01/2026 00:27",
         "acesso": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "descricao": "Repositório Institucional",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 00:24"
+      },
+      {
+        "descricao": "Processo SEI",
+        "cadastradoPor": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 01:00"
       }
     ]
   }

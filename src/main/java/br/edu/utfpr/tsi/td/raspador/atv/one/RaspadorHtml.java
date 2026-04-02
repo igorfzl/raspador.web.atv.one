@@ -1,5 +1,9 @@
 package br.edu.utfpr.tsi.td.raspador.atv.one;
 
+import br.edu.utfpr.tsi.td.model.Acompanhamento;
+import br.edu.utfpr.tsi.td.model.Documentos;
+import br.edu.utfpr.tsi.td.model.Links;
+import br.edu.utfpr.tsi.td.model.Orientacoes;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.jsoup.Jsoup;
@@ -73,9 +77,26 @@ public class RaspadorHtml {
                         listaDoc.add(d);
                     }
                 }
-
                 o.setDocumentos(listaDoc);
+
+                List<Links> listaLinks = new ArrayList<>();
+                Elements linhasLink = item.select("div[id^=links] table tbody tr");
+
+                for (Element itemLink : linhasLink) {
+                    Elements cols = itemLink.select("td");
+                    if (cols.size() >= 3) {
+                        Links l = new Links();
+                        l.setDescricao(cols.get(0).text());
+                        l.setCadastradoPor(cols.get(1).text());
+                        l.setData(cols.get(2).text());
+                        listaLinks.add(l);
+                    }
+                }
+                o.setLinks(listaLinks);
+
+
                 lista.add(o);
+
             }
 
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -87,7 +108,7 @@ public class RaspadorHtml {
 
             System.out.println("Arquivo orientacoes.json gerado com sucesso!");
 
-        } catch (IOException e) {
+        } catch (IOException e) { // O CATCH AGORA FECHA O TRY CORRETAMENTE
             System.err.println(e.getMessage());
         }
     }
